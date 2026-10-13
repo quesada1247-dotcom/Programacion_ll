@@ -1,0 +1,5 @@
+C:\Users\Usuario\Documents\Programacion_ll\Unidad_2\obj\Debug\Unidad_2.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Programacion_ll\Unidad_2\obj\Debug\Unidad_2.Properties.Resources.resources
+C:\Users\Usuario\Documents\Programacion_ll\Unidad_2\obj\Debug\Unidad_2.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Programacion_ll\Unidad_2\obj\Debug\Unidad_2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Programacion_ll\Unidad_2\obj\Debug\Unidad_2.CompararyEvaluar.resources
