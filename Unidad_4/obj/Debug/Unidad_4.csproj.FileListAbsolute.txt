@@ -1,0 +1,13 @@
+C:\Users\Usuario\Documents\Programacion_ll\Unidad_4\obj\Debug\Unidad_4.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Programacion_ll\Unidad_4\obj\Debug\Unidad_4.Form1.resources
+C:\Users\Usuario\Documents\Programacion_ll\Unidad_4\obj\Debug\Unidad_4.Properties.Resources.resources
+C:\Users\Usuario\Documents\Programacion_ll\Unidad_4\obj\Debug\Unidad_4.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Programacion_ll\Unidad_4\obj\Debug\Unidad_4.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Programacion_ll\Unidad_4\bin\Debug\Unidad_4.exe.config
+C:\Users\Usuario\Documents\Programacion_ll\Unidad_4\bin\Debug\Unidad_4.exe
+C:\Users\Usuario\Documents\Programacion_ll\Unidad_4\bin\Debug\Unidad_4.pdb
+C:\Users\Usuario\Documents\Programacion_ll\Unidad_4\obj\Debug\Unidad_4.exe
+C:\Users\Usuario\Documents\Programacion_ll\Unidad_4\obj\Debug\Unidad_4.pdb
+C:\Users\Usuario\Documents\Programacion_ll\Unidad_4\obj\Debug\Unidad_4.Uso_de_propiedades_get_set.resources
+C:\Users\Usuario\Documents\Programacion_ll\Unidad_4\obj\Debug\Unidad_4.Validación_con_ErrorProvider.resources
+C:\Users\Usuario\Documents\Programacion_ll\Unidad_4\obj\Debug\Unidad_4.Tarea_Programada_4.resources
