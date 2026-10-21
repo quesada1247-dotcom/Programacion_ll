@@ -1,0 +1,13 @@
+C:\Users\Usuario\Documents\Programacion_ll\Examen Pacial 1\obj\Debug\Examen Pacial 1.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Programacion_ll\Examen Pacial 1\obj\Debug\Examen_Pacial_1.Form1.resources
+C:\Users\Usuario\Documents\Programacion_ll\Examen Pacial 1\obj\Debug\Examen_Pacial_1.Properties.Resources.resources
+C:\Users\Usuario\Documents\Programacion_ll\Examen Pacial 1\obj\Debug\Examen Pacial 1.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Programacion_ll\Examen Pacial 1\obj\Debug\Examen Pacial 1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Programacion_ll\Examen Pacial 1\bin\Debug\Examen Pacial 1.exe.config
+C:\Users\Usuario\Documents\Programacion_ll\Examen Pacial 1\bin\Debug\Examen Pacial 1.exe
+C:\Users\Usuario\Documents\Programacion_ll\Examen Pacial 1\bin\Debug\Examen Pacial 1.pdb
+C:\Users\Usuario\Documents\Programacion_ll\Examen Pacial 1\obj\Debug\Examen Pacial 1.exe
+C:\Users\Usuario\Documents\Programacion_ll\Examen Pacial 1\obj\Debug\Examen Pacial 1.pdb
+C:\Users\Usuario\Documents\Programacion_ll\Examen Pacial 1\obj\Debug\Examen_Pacial_1.EJERCICIO_2___Clasificación_de_una_nota.resources
+C:\Users\Usuario\Documents\Programacion_ll\Examen Pacial 1\obj\Debug\Examen_Pacial_1.EJERCICIO_3___Menú_de_servicios.resources
+C:\Users\Usuario\Documents\Programacion_ll\Examen Pacial 1\obj\Debug\Examen_Pacial_1.EJERCICIO_4___Clase_Producto.resources
