@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Unidad_5
+{
+    internal static class Program
+    {
+        /// <summary>
+        /// Punto de entrada principal para la aplicación.
+        /// </summary>
+        [STAThread]
+        static void Main()
+        {
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            //Application.Run(new interfaz());
+            //Application.Run(new Ejercisio2.RegistroEstudiantes());
+            //Application.Run(new Ejercisio3.GestionProductos());
+
+        }
+    }
+}

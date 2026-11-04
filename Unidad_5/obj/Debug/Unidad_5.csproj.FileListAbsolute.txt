@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\Programacion_ll\Unidad_5\bin\Debug\Unidad_5.exe.config
+C:\Users\Usuario\Documents\Programacion_ll\Unidad_5\bin\Debug\Unidad_5.exe
+C:\Users\Usuario\Documents\Programacion_ll\Unidad_5\bin\Debug\Unidad_5.pdb
+C:\Users\Usuario\Documents\Programacion_ll\Unidad_5\obj\Debug\Unidad_5.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Programacion_ll\Unidad_5\obj\Debug\Unidad_5.interfaz.resources
+C:\Users\Usuario\Documents\Programacion_ll\Unidad_5\obj\Debug\Unidad_5.Properties.Resources.resources
+C:\Users\Usuario\Documents\Programacion_ll\Unidad_5\obj\Debug\Unidad_5.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Programacion_ll\Unidad_5\obj\Debug\Unidad_5.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Programacion_ll\Unidad_5\obj\Debug\Unidad_5.exe
+C:\Users\Usuario\Documents\Programacion_ll\Unidad_5\obj\Debug\Unidad_5.pdb
+C:\Users\Usuario\Documents\Programacion_ll\Unidad_5\obj\Debug\Unidad_5.Ejercisio2.RegistroEstudiantes.resources
